@@ -1,6 +1,8 @@
 worldwideweb Core integration/staging tree
 =====================================
 
+http://worldwideweb.digital/blockchain-master-resources/0x0974f4fcbc75d2ef31c0aee87e5f2767fdaa1c9c
+
 https://worldwidewebcore.org
 
 For an immediately usable, binary version of the worldwideweb Core software, see
